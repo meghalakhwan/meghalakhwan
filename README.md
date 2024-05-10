@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Student from India.</h3>
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Reactjs<br>💬 Ask me about  Html, Css, Javascript<br>📫 How to reach me meghalakhwan9@gmail.com
+<br>🌱 I’m currently learning Reactjs<br>💬 Ask me about  Html, Css, Javascript, sql<br>📫 How to reach me meghalakhwan9@gmail.com
 
 
 ## 🌐 Socials:
