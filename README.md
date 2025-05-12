@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megha</h1>
 
 # 💫 About Me:
-I'm a passionate **Software Engineer** who loves crafting beautiful, user-friendly, and high-performance web applications. I specialize in **Frontend Development**, combining clean code with great user experience.📫 How to reach me meghalakhwan9@gmail.com
+I'm a passionate **Software Engineer** who loves crafting beautiful, user-friendly, and high-performance web applications. <br> I specialize in **Frontend Development**, combining clean code with great user <experience.<br>📫 How to reach me meghalakhwan9@gmail.com
 
 ## 🎯 What I Do:
 - 🎯 Passionate about building **modern, scalable, and user-centric web apps**
